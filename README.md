@@ -9,9 +9,9 @@ This repository documents my Grade 11 internship project with **GBL Internationa
 - Reflections on how NotebookLM supports learning
 - Screenshots and experiments with study topics
 
-**Mentored by:** @Gita Sivanandan and @Karobi Chakraborty
+**_Mentored by:_** **Gita Sivanandan** and **Karobi Chakraborty**
 
 ---
 
 **Tags / Keywords:**  
-#AI #Learning #NotebookLM #Education #GBLInternational
+**#AI** **#Learning** **#NotebookLM** **#Education** **#GBLInternational**
