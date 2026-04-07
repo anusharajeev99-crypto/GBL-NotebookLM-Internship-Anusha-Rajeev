@@ -2,7 +2,7 @@
 
 This repository documents my Grade 11 internship project with **GBL International**, where I explored how to use **Google’s NotebookLM** to make studying and research more effective through AI-assisted learning.
 
-🔗 **View my NotebookLM here:** [NotebookLM public link]
+🔗 **View my NotebookLM here:** https://notebooklm.google.com/notebook/ab04710f-277c-4d72-8dde-42a5518be156
 
 ## What This Project Covers
 - Research notes and AI-generated summaries
