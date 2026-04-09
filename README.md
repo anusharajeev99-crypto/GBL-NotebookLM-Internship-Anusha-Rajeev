@@ -18,4 +18,4 @@ This repository documents my Grade 11 internship project with **GBL Internationa
 
 ## Sample Outputs
 - [Economics Chapter 1 – Video Summary](Economics%20Chapter%201%20video%20summary.mp4)
-- [Economics Chapter 1 Mind Map](Economics_Chapter_1_Mind_Map.png)
+- [Economics Chapter 1 Mind Map](Economics%20Chapter%201%20Mind%20Map.png)
