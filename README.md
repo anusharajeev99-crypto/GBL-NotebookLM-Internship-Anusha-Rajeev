@@ -1,21 +1,46 @@
 # GBL International — NotebookLM Internship Project
 
-This repository documents my Grade 11 internship project with **GBL International**, where I explored how to use **Google’s NotebookLM** to make studying and research more effective through AI-assisted learning.
+##📌About
+This repository documents my Grade 11 internship project with **GBL International**, where I explored how to use **Google’s NotebookLM** to make studying, improve my understanding of communication and trust-based concpts and research more effective through AI-assisted learning.
 
 🔗**View my NotebookLM here:** [Open NotebookLM](https://notebooklm.google.com/notebook/ab04710f-277c-4d72-8dde-42a5518be156)
 
-## What This Project Covers
+##🗒️What This Project Covers
 - Research notes and AI-generated summaries
 - Reflections on how NotebookLM supports learning
 - Screenshots and experiments with study topics
 
-**_Mentored by:_** **Gita Sivanandan** and **Karobi Chakraborty**
+##🎯Objective
+The goal of this project is to:
+- Organize key concepts from my learning modules
+- Use AI tools to structure and simplify information
+- Improve clarity and understanding through visual representation
 
 ---
 
-**Tags / Keywords:**  
-**#AI** **#Learning** **#NotebookLM** **#Education** **#GBLInternational**
+##🧠What I Learned
+Through this project, I learned :
+- The importance of **trust** in communication
+- How **signals** convey hidden information like intelligene and commitment
+- How **cooperation** works in social dilemmas
+
+---
+
+##🚀Tools I Used
+- NotebookLM (for organizing and structuring information)
+- GitHub (for documentation and sharing work)
+
+---
+
+**Mentored by👩‍🏫:** **Gita Sivanandan** and **Karobi Chakraborty**
+
+---
 
 ## Sample Outputs
 - [Economics Chapter 1 – Video Summary](Economics%20Chapter%201%20video%20summary.mp4)
 - [Economics Chapter 1 Mind Map](Economics%20Chapter%201%20Mind%20Map.png)
+
+---
+
+**Tags / Keywords🏷️:**  
+**#AI** **#Learning** **#NotebookLM** **#Education** **#GBLInternational**
