@@ -1,31 +1,30 @@
 # GBL International — NotebookLM Project
 
----
-
-## 📌About
-
-This repository showcases my works and notes created using **Google’s NotebookLM** during my internship at **GBL International**.
-
-🔗**View my NotebookLM here:** [Open NotebookLM](https://notebooklm.google.com/notebook/ab04710f-277c-4d72-8dde-42a5518be156)
+This repository contains my work and notes created using NotebookLM during my internship at **GBL International**.
 
 ---
 
-## 📂Contents
-- Notes generated using AI
-- Mindmaps and Summaries
-- Learning Experiments
+## 📌 About
+I used NotebookLM as a tool to help with learning, organizing information, and creating structured notes.
 
 ---
 
-## 🎯Purpose
-
-To explore how AI tools like NOtebookLM can be used for learning and organixing information.
-
----
+## 📂 Contents
+- AI-generated notes  
+- Mindmaps and summaries  
+- Learning experiments  
 
 ## 🚀Tools I Used
 - NotebookLM (for organizing and structuring information)
 - GitHub (for documentation and sharing work)
+
+---
+
+## 🎯 Purpose
+To explore how AI tools can support learning and improve understanding of different topics.
+
+## 🚀 Progress
+I am continuing to explore and improve my use of AI tools like NotebookLM.
 
 ---
 
