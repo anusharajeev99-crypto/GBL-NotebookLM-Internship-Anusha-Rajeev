@@ -39,6 +39,7 @@ I am continuing to explore and improve my use of AI tools like NotebookLM.
 - [Study Guide](https://notebooklm.google.com/notebook/ab04710f-277c-4d72-8dde-42a5518be156/artifact/669488cb-55eb-4bed-a3ff-92f586c7c4db)
 - [Techno-Financial Masterplan](https://github.com/anusharajeev99-crypto/GBL-NotebookLM-Internship/raw/main/Techno-Financial%20Masterplan.pdf)
 - [The Future Ready CA Blueprint](https://github.com/anusharajeev99-crypto/GBL-NotebookLM-Internship/raw/main/The%20Future%20Ready%20CA%20Blueprint.pdf)
+- [The AI Powered CA Blueprint](https://github.com/anusharajeev99-crypto/GBL-NotebookLM-Internship/raw/main/The%20AI%20Powered%20CA%20Blueprint.pdf)
 
 ---
 
